@@ -1,0 +1,9 @@
+{
+  "discord_token": "YOUR_DISCORD_BOT_TOKEN",
+  "prefix": "!",
+  "moderation_roles": ["Moderator", "Admin"],
+  "log_channel": "moderation-logs",
+  "filter_words": ["badword1", "badword2"],
+  "max_warnings": 3,
+  "mute_time": 300000
+}
